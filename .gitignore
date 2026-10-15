@@ -1,0 +1,1 @@
+node_modules/echo frontend/node_modules/echo .envecho .env.*echo !.env.exampleecho dist/echo build/echo __pycache__/echo .venv/
